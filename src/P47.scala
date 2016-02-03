@@ -3,14 +3,14 @@ Distinct primes factors
 Problem 47
 The first two consecutive numbers to have two distinct prime factors are:
 
-14 = 2 × 7
-15 = 3 × 5
+14 = 2 ï¿½ 7
+15 = 3 ï¿½ 5
 
 The first three consecutive numbers to have three distinct prime factors are:
 
-644 = 2² × 7 × 23
-645 = 3 × 5 × 43
-646 = 2 × 17 × 19.
+644 = 2ï¿½ ï¿½ 7 ï¿½ 23
+645 = 3 ï¿½ 5 ï¿½ 43
+646 = 2 ï¿½ 17 ï¿½ 19.
 
 Find the first four consecutive integers to have four distinct prime factors. What is the first of these numbers?
  */
