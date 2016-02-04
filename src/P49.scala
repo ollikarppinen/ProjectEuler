@@ -1,5 +1,6 @@
 
 object P49 extends App {
+  /* Broken :<
   val t = System.currentTimeMillis()
   val p = PrimeTools.sieve(9999)
   var i = 1489
@@ -34,5 +35,5 @@ object P49 extends App {
     .filter(_.size >= 3)
     .filter(a => a.map(x => a.filter(_ < x).map(y => (y << 1) - x)).map(a.contains(_)).reduce(_ ^ _))
   //                                .map(a => a.map(x => a.filter(_ < x).map(y => (y << 1) - x)).map(a.contains(_))).map(z => z.reduce(_ ^ _))//.map(a.contains(_))))
-
+	*/
 }
