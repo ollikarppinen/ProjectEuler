@@ -13,7 +13,7 @@ object timer {
   }
   
   def printResult(details: (Int, Any)) = {
-    println("Runtime: " + details._1 + " ms")
-    println("Result: " + details._2)
+    println("Runtime: " + details._2 + " ms")
+    println("Result: " + details._1)
   }
 }
